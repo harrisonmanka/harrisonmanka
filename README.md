@@ -1,4 +1,4 @@
-✅Hi, I'm Harrison. I am currently an undergraduate learning Computer Science. My current class I am learning the Java language.
+✅Hi, I'm Harrison. I am currently an undergraduate learning Computer Science.
  
 👍🏼I can't wait to explore more languages and learn more.
 
